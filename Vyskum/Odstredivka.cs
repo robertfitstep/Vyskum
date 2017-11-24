@@ -8,7 +8,6 @@ namespace Vyskum
 {
     sealed class Odstredivka:Pristroj
     {
-        private int typPristroja;
 
         public Odstredivka(int cisloPristroja, int typPristroja)
         {

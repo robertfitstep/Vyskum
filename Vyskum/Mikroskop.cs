@@ -8,7 +8,6 @@ namespace Vyskum
 {
     sealed class Mikroskop:Pristroj
     {
-        private int typPristroja;
 
         public Mikroskop(int cisloPristroja, int typPristroja)
         {

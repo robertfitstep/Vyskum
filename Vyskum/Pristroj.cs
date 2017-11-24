@@ -10,7 +10,8 @@ namespace Vyskum
     {
         string status;
         protected int cisloPristroja;
-        
+        protected int typPristroja;
+
 
         public virtual void VypisInformacieOPristroji()
         {

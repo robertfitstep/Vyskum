@@ -42,6 +42,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="FactoryPristroje.cs" />
     <Compile Include="IOvladaniePristroja.cs" />
     <Compile Include="Laboratorium.cs" />
     <Compile Include="Laboratorium_2.cs" />
